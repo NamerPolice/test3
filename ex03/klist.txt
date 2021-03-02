@@ -1,0 +1,5 @@
+Credentials cache: API:88E9AC88-A03B-4D6A-AF04-EEF94A213628
+        Principal: rgynir@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  1 17:59:13 2021  Mar  2 03:59:08 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
